@@ -1,0 +1,4 @@
+- Ryan Kent
+- ![Me](/labs/lab-01/images/self.JPG)
+- Graduate in 2022
+- An Open Source Project that interests me is Audacity!
